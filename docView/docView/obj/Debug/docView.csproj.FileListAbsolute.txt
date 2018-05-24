@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\docView\docView\bin\docView.dll.config
+C:\Users\Administrator\Desktop\docView\docView\bin\docView.dll
+C:\Users\Administrator\Desktop\docView\docView\bin\docView.pdb
+C:\Users\Administrator\Desktop\docView\docView\obj\Debug\docView.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\docView\docView\obj\Debug\docView.dll
+C:\Users\Administrator\Desktop\docView\docView\obj\Debug\docView.pdb
